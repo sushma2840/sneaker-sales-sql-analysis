@@ -13,7 +13,7 @@ The database `sneaker_sales` consists of five related tables:
 - **SUPPLIERS**: SupplierID, SupplierName, ContactPerson, Email, PhoneNumber, Country  
 
 ## Project Structure
-
+```
 sneaker-sales-sql-analysis
 ├── README.md
 ├── SQL/
@@ -22,7 +22,7 @@ sneaker-sales-sql-analysis
 │ └── sneaker_sales_03_supplier_product_performance.sql
 ├── ERD/
 └── Datasets/
-
+```
 
 ## Analysis Sections
 
