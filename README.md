@@ -37,7 +37,7 @@ Analyzes suppliers’ contributions, average product prices, product variety per
 
 ## Skills and Tools Used
 - SQL (JOINS, GROUP BY, HAVING, Subqueries, Aggregations)  
-- MySQL Workbench (or any SQL client)  
+- MySQL Workbench
 
 ## How to Use This Project
 1. Clone this repository to your local machine.
