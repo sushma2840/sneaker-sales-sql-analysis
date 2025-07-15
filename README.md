@@ -48,7 +48,7 @@ Analyzes suppliers’ contributions, average product prices, product variety per
 
 ---
 
-Feel free to reach out if you have any questions or want to collaborate!
+Feel free to reach out if you have any questions!
 
 ---
 
