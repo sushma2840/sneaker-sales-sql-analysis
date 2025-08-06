@@ -16,7 +16,7 @@ The database `sneaker_sales` consists of five related tables:
 
 The following diagram shows the structure of the database used in this project:
 
-![ERD Diagram](ERD/erd.png)
+![ERD Diagram](ERD/sneaker_sales_erd.png)
 
 ## Project Structure
 ```
