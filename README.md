@@ -10,7 +10,13 @@ The database `sneaker_sales` consists of five related tables:
 - **PRODUCTS**: ProductID, ProductName, Category, UnitPrice, SupplierID  
 - **SALES**: SaleID, Date, ProductID, CustomerID, Quantity, TotalAmount, SalesRepID, StoreLocation  
 - **SALES_REPRESENTATIVE**: SalesRepID, FirstName, LastName, HireDate, Region  
-- **SUPPLIERS**: SupplierID, SupplierName, ContactPerson, Email, PhoneNumber, Country  
+- **SUPPLIERS**: SupplierID, SupplierName, ContactPerson, Email, PhoneNumber, Country
+
+### Entity Relationship Diagram (ERD)
+
+The following diagram shows the structure of the database used in this project:
+
+![ERD Diagram](ERD/erd.png)
 
 ## Project Structure
 ```
