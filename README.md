@@ -54,8 +54,15 @@ Analyzes suppliers’ contributions, average product prices, product variety per
 
 ---
 
-Feel free to reach out if you have any questions!
+*Project created by Sushma Sharma*
 
 ---
 
-*Project created by Sushma Sharma*
+## Contact
+
+Created by **Sushma Sharma**, an aspiring Data Analyst. Feel free to reach out:
+
+- **Email:** [sushmasharma03022001@gmail.com](mailto:sushmasharma03022001@gmail.com)  
+- **GitHub:** [github.com/sushma2840](https://github.com/sushma2840)  
+- **LinkedIn:** [linkedin.com/in/sushma-s-45b2812b6](https://www.linkedin.com/in/sushma-s-45b2812b6)
+
