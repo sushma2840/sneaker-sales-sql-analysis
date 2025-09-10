@@ -54,10 +54,6 @@ Analyzes suppliers’ contributions, average product prices, product variety per
 
 ---
 
-*Project created by Sushma Sharma*
-
----
-
 ## Contact
 
 Created by **Sushma Sharma**, an aspiring Data Analyst. Feel free to reach out:
